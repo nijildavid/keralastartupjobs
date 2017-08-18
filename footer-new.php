@@ -47,7 +47,7 @@
    <footer class="bg-light-gray avenir lh-copy">
            
     <div class="f6 ph7-l pb3 black-70 pt3 pb3">
-                Kerala startup jobs aims to reduce the unemployment in Kerala.
+                <a class="link underline dark-blue" href="/index.php">Kerala startup jobs</a> aims to reduce the unemployment in Kerala.
                     </div>
      </footer>
 </body>

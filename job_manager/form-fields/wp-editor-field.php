@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 $editor = apply_filters( 'submit_job_form_wp_editor_args', array(
 	'textarea_name' => isset( $field['name'] ) ? $field['name'] : $key,
 	'media_buttons' => false,
-	'textarea_rows' => 8,
+	'textarea_rows' => 15,
 	'quicktags'     => false,
 	'tinymce'       => array(
 		'plugins'                       => 'lists,paste,tabfocus,wplink,wordpress',

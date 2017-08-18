@@ -80,7 +80,7 @@ global $job_manager;
 			<input type="hidden" name="job_manager_form" value="<?php echo $form; ?>" />
 			<input type="hidden" name="job_id" value="<?php echo esc_attr( $job_id ); ?>" />
 			<input type="hidden" name="step" value="<?php echo esc_attr( $step ); ?>" />
-			<input type="submit" name="submit_job" class="f4 link ph4 pv3 dib white bg-dark-blue" value="<?php echo esc_attr( $submit_button_text ); ?>" />
+			<input type="submit" name="submit_job" class="f4 link ph4 pv3 dib white bg-dark-blue hover-white hover-bg-blue" value="<?php echo esc_attr( $submit_button_text ); ?>" />
 		</p>
 
 	<?php else : ?>

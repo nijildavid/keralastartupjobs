@@ -51,7 +51,7 @@ else {
 <?php 
 
 
-if(is_page(96)) {
+if(is_page(39)) {
  get_footer('new');
 }
 else {
