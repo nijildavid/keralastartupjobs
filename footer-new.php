@@ -17,7 +17,7 @@
 
 		</div><!-- #content -->
 
-		<footer id="colophon" class="" role="contentinfo">
+		<footer id="colophon" role="contentinfo">
 			<div class="">
 				<?php
 				get_template_part( 'template-parts/footer/footer', 'widgets' );
@@ -44,22 +44,11 @@
 </div><!-- #page -->
 <?php wp_footer(); ?>
 
-   <footer class="bg-light-gray avenir lh-copy f4">
+   <footer class="bg-light-gray avenir lh-copy">
            
-            <div class="f6 cf ph7-l pb3 black-70">
-                <div class="fl w-100 w-80-ns">
-                    <div class="mt4">
-                <span class="lh-copy">Stay updated with our Facebook page <a class="link dark-blue underline" href="#">@keralastartupjobs</a>
-                                              <p >Kerala startup jobs aims to reduce the unemployment in Kerala.<br> Made it in a pulse!</p>
-
-                </span>
+    <div class="f6 ph7-l pb3 black-70 pt3 pb3">
+                Kerala startup jobs aims to reduce the unemployment in Kerala.
                     </div>
-                </div>
-                <div class="fl w-100 w-10-ns pa0 mt4">
-     
-                </div>
-            </div>
-            </div>
-        </footer>
+     </footer>
 </body>
 </html>
