@@ -44,6 +44,7 @@ global $post;
 </li> -->
  
 
+
   <a class="link dark-blue avenir" href="<?php the_job_permalink(); ?>">
                     <li class="flex items-center lh-copy pa2 ph0-l bb bt0 b--black-10 hover-bg-light-gray" <?php job_listing_class(); ?> data-longitude="<?php echo esc_attr( $post->geolocation_lat ); ?>" data-latitude="<?php echo esc_attr( $post->geolocation_long ); ?>">
                         <div class="flex-auto f4 pl3">

@@ -17,5 +17,4 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 ?>
 
-
 <ul class="job_listings">

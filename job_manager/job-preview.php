@@ -19,9 +19,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 		
 
 
-	<div class="bg-lightest-gray ba1 b--solid b--light-gray pb2 pt0 mt0">
-	<p class="f6 pa2 bg-light-gray mt0"><?php _e( 'Here is your job preview. Confirm and Submit.', 'wp-job-manager' ); ?></p>
-		<div class="pl3"><p class="f2 fw5 pb0 mb0 pt0 mt0"><?php wpjm_the_job_title(); ?></p>
+	<div class=" ba1 b--solid b--lightest-blue pb2 pt0 mt0">
+	<p class="f6 pa2 bg-lightest-blue mt0"><?php _e( 'Here is your job preview. Confirm and Submit.', 'wp-job-manager' ); ?></p>
+		<div class="pl3 pr3"><p class="f2 fw5 pb0 mb0 pt0 mt0"><?php wpjm_the_job_title(); ?></p>
 
 		<?php get_job_manager_template_part( 'content-single', 'job_listing' ); ?></div>
 
@@ -36,7 +36,7 @@ if ( ! defined( 'ABSPATH' ) ) {
       <div class="pa2 pt3"> <p>If all looks good,</p>
       <input type="submit" name="continue" id="job_preview_submit_button" class="f4 link button-reset br2 ph4 pv3 dib white bg-dark-blue hover-white hover-bg-blue" value="<?php echo apply_filters( 'submit_job_step_preview_submit_text', __( 'Submit this Job', 'wp-job-manager' ) ); ?>" />
       </div>
-      <div class="pa2 pt2">or else
+      <div class="pa2 pt0">or else
       	<input type="submit" name="edit_job" class=" bb1 b--dark-blue br5 dib  bg-white blue" value="<?php _e( 'Edit it', 'wp-job-manager' ); ?>" />
       </div>
     </div>
