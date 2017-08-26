@@ -39,14 +39,14 @@ global $job_manager;
 	<?php if ( job_manager_user_can_post_job() || job_manager_user_can_edit_job( $job_id ) ) : ?>
 
 		<!-- Job Information Fields -->
-					<h1 class="fw1"><?php _e( 'Job Details', 'wp-job-manager' ); ?></h1>
+					<h2 class="fw1 pb0 mb0"><?php _e( 'Job Details', 'wp-job-manager' ); ?></h2>
 
 		<?php do_action( 'submit_job_form_job_fields_start' ); ?>
 
 		<?php foreach ( $job_fields as $key => $field ) : ?>
 			<fieldset class="fieldset-<?php echo esc_attr( $key ); ?>">
 				<label for="<?php echo esc_attr( $key ); ?>"><?php echo $field['label'] . apply_filters( 'submit_job_form_required_label', $field['required'] ? '' : ' <small>' . __( '(optional)', 'wp-job-manager' ) . '</small>', $field ); ?></label>
-				<div class=" <?php echo $field['required'] ? 'required-field' : ''; ?>">
+				<div class="<?php echo $field['required'] ? 'required-field' : ''; ?>">
 					<?php get_job_manager_template( 'form-fields/' . $field['type'] . '-field.php', array( 'key' => $key, 'field' => $field ) ); ?>
 				</div>
 			</fieldset>
@@ -56,7 +56,7 @@ global $job_manager;
 
 		<!-- Company Information Fields -->
 		<?php if ( $company_fields ) : ?>
-			<h1 class="fw1"><?php _e( 'Company  Details', 'wp-job-manager' ); ?></h1>
+			<h2 class="fw1 mb0 pb0 pt3"><?php _e( 'Company  Details', 'wp-job-manager' ); ?></h2>
 
 			<?php do_action( 'submit_job_form_company_fields_start' ); ?>
 

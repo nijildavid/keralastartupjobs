@@ -15,7 +15,7 @@
 get_header(); ?>
 
 <div id="primary" class="">
-	<main id="main" class="ph7-l mw9" role="main">
+	<main id="main" class="ph6-l mw9" role="main">
 
 		<?php // Show the selected frontpage content.
 		if ( have_posts() ) :
