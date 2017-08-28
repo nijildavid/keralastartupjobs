@@ -46,18 +46,22 @@
 
    <footer class="bg-light-gray avenir lh-copy f4 mt5">
            
-            <div class="cf ph7-l pb5">
-                <div class="fl w-100 w-30-ns">
+            <div class="cf ph6-l pb5">
+                <div class="fl w-100 w-40-ns">
                     <div class="mt4">
                 <p class="gray f6 mt3"><!-- Stay updated with our Facebook page <a class="link dark-blue underline" href="#">@keralastartupjobs</a> -->
                 Kerala startup jobs aims to reduce unemployment in Kerala.
+                <br>Follow in twitter           <a class="link dark-blue" href="https://twitter.com/KLstartupjobs" target="_blank">
+                <span class="f6">
+@klstartupjobs
+      </span></a> for latest jobs.
               </p>
                     </div>
                 </div>
-                <div class="fl w-100 w-70-ns pa0 mt1">
+                <div class="fl w-100 w-60-ns pa0 mt1">
                     <div class="tr">
                         <p class="f6 lh-copy pb0 mb1 mt4 gray">Offer valid till Dec 2017</p>
-                        <a class="f4 link button-reset br2 ph4 pv2 dib white bg-dark-blue hover-white hover-bg-blue" href="/post-a-job/"><b>Post your job</b> ( <span class="strike light-red">250 Rs </span>  FREE for 30 days )</a></div>
+                        <a class="f4 fw3 link button-reset br-pill ph4 pv2 dib white bg-coconut-green hover-white hover-bg-blue" href="/post-a-job/"><b>Post your job</b> ( <span class="strike green">250 Rs </span>  FREE for 30 days )</a></div>
                 </div>
             </div>
             </div>
