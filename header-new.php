@@ -27,10 +27,10 @@
     
 <div id="page" class="site">
 <header class="">
-        <div class="mw9 tl pt5-ns pb0">
+        <div class="mw9 tl pb0">
             <a class="link dark-blue" href="/index.php">
                 <span class="f6">
-Kerala startup jobs
+<svg class="icon icon-arrow-left" aria-hidden="true" role="img"> <use href="#icon-arrow-left" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-arrow-left"></use> </svg> Kerala startup jobs
       </span></a>
               </div>
     </header>

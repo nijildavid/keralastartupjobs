@@ -12,7 +12,7 @@
  -->
 
 
-<div class="wrap avenir">
+<div class="wrap avenir mw9 pt4-ns ph6-l">
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 <?php get_header('new'); ?>
@@ -28,8 +28,8 @@
 				endif;
 
 				the_post_navigation( array(
-					'prev_text' => '<span class="screen-reader-text">' . __( 'Previous Post', 'twentyseventeen' ) . '</span><span aria-hidden="true" class="nav-subtitle">' . __( 'Previous', 'twentyseventeen' ) . '</span> <span class="nav-title"><span class="nav-title-icon-wrapper">' . twentyseventeen_get_svg( array( 'icon' => 'arrow-left' ) ) . '</span>%title</span>',
-					'next_text' => '<span class="screen-reader-text">' . __( 'Next Post', 'twentyseventeen' ) . '</span><span aria-hidden="true" class="nav-subtitle">' . __( 'Next', 'twentyseventeen' ) . '</span> <span class="nav-title">%title<span class="nav-title-icon-wrapper">' . twentyseventeen_get_svg( array( 'icon' => 'arrow-right' ) ) . '</span></span>',
+					'prev_text' => '<span class="screen-reader-text">' . __( 'Previous Post', 'twentyseventeen' ) . '</span><span aria-hidden="true" class="nav-subtitle fw4">' . __( 'Previous Job', 'twentyseventeen' ) . '</span> <span class="nav-title fw4 f4"><span class="nav-title-icon-wrapper">' . twentyseventeen_get_svg( array( 'icon' => '' ) ) . '</span>%title</span>',
+					'next_text' => '<span class="screen-reader-text">' . __( 'Next Post', 'twentyseventeen' ) . '</span><span aria-hidden="true" class="nav-subtitle fw4">' . __( 'Next Job', 'twentyseventeen' ) . '</span> <span class="nav-title fw4 f4">%title<span class="nav-title-icon-wrapper">' . twentyseventeen_get_svg( array( 'icon' => '' ) ) . '</span></span>',
 				) );
 
 			endwhile; // End of the loop.
