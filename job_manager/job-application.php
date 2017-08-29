@@ -22,7 +22,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 		<?php do_action( 'job_application_start', $apply ); ?>
 
 		
-		<input type="button" class="application_button button f4 link ph4 pv3 dib white bg-dark-blue" value="<?php _e( 'Apply for job', 'wp-job-manager' ); ?>" />
+		<input type="button" class="application_button button f4 fw3 link button-reset ph4 pv2 dib white bg-coconut-green hover-white hover-bg-green" value="<?php _e( 'Apply for this job', 'wp-job-manager' ); ?>" />
 		
 		<div class="application_details">
 			<?php

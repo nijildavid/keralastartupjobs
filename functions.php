@@ -318,7 +318,7 @@ function twentyseventeen_widgets_init() {
 		'description'   => __( 'Add widgets here to appear in your sidebar on blog posts and archive pages.', 'twentyseventeen' ),
 		'before_widget' => '<section id="%1$s" class="widget %2$s">',
 		'after_widget'  => '</section>',
-		'before_title'  => '<p class="f4 mb0 pb2">',
+		'before_title'  => '<p class="avenir b pt4 pb2 mb0 ml0 lh-copy bb0 tracked-l ttu">',
 		'after_title'   => '</p>',
 	) );
 
