@@ -25,6 +25,7 @@
 </head>
 
 <body <?php body_class(); ?> class="avenir lh-copy f4"> 
+<?php if ( function_exists( 'gtm4wp_the_gtm_tag' ) ) { gtm4wp_the_gtm_tag(); } ?>
   <header class="bg-light-gray avenir">
             <div class="mw9 center pt5-ns pb0 ph6-l pb5">
                 <p class=" fw1 f-subheadline pb3 lh-title mv0 tracked-tight black-80">

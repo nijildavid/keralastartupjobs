@@ -24,6 +24,7 @@
 </head>
 
 <body <?php body_class(); ?> class="avenir lh-copy f1"> 
+<?php if ( function_exists( 'gtm4wp_the_gtm_tag' ) ) { gtm4wp_the_gtm_tag(); } ?>
     
 <div id="page" class="site">
 <header class="">

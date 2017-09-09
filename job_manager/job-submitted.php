@@ -29,4 +29,5 @@ switch ( $job->post_status ) :
 	break;
 endswitch;
 
+
 do_action( 'job_manager_job_submitted_content_after', sanitize_title( $job->post_status ), $job );

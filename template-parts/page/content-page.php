@@ -15,8 +15,11 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
 	<header class="">
-		<?php the_title( '<p class="f1 pb0 mb0 mt0 pt0">', '</p>' ); ?>
-<!-- 		<?php twentyseventeen_edit_link( get_the_ID() ); ?>
+
+
+<?php the_title( '<p class="f2 pb0 mb0 mt0 pt0">', '</p>' ); ?>
+
+ <!-- 		<?php twentyseventeen_edit_link( get_the_ID() ); ?>
  -->	</header><!-- .entry-header -->
 	<div class="">
 		<?php

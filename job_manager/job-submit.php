@@ -20,6 +20,7 @@ global $job_manager;
 
 
 <section class="dt w-100 w-70-ns">
+
 <form action="<?php echo esc_url( $action ); ?>" method="post" id="submit-job-form" class="job-manager-form" enctype="multipart/form-data">
 
 	<?php
