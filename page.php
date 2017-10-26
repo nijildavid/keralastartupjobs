@@ -18,10 +18,9 @@
 <div class="wrap avenir">
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
-		
 
 		<?php
-if(is_page(39)) {
+if(is_page(array( 4, 74, 78 ))) {
  get_header('new');
 }
 else {

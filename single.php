@@ -40,4 +40,4 @@
 <?php get_sidebar(); ?>
 </div><!-- .wrap -->
 
-<?php get_footer('new');
+<?php get_footer();

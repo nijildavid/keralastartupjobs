@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="179px" height="37px" viewBox="0 0 179 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header---Desktop" transform="translate(-289.000000, -81.000000)">
+            <g id="logo" transform="translate(289.500000, 77.250000)">
+                <g id="sun" transform="translate(25.589804, 21.537055) rotate(97.000000) translate(-25.589804, -21.537055) translate(7.089804, 2.537055)" fill="#FFD560">
+                    <ellipse id="Oval-7" cx="19.5927036" cy="17.3285104" rx="17.2071191" ry="17.1991872"></ellipse>
+                </g>
+                <g id="Group" transform="translate(13.500000, 0.000000)">
+                    <text id="K" font-family="Pacifico-Regular, Pacifico" font-size="25" font-style="italic" font-weight="normal" fill="#737C97">
+                        <tspan x="0.31000768" y="33.2216856">K</tspan>
+                    </text>
+                    <polygon id="Path-3" fill="#FFD560" points="20.7319049 27.5416269 19.3912155 30.4404308 23.0459715 33.4950461 25.3182712 33.4950461 27.1758636 30.5183365 27.7188339 28.3411233 27.7188339 26.7439078 24.7566391 26.2184145"></polygon>
+                    <path d="M19.5409338,27.5183627 C22.5755541,32.4360114 26.6414909,33.9089985 31.7387442,31.937324 C32.4929732,31.720653 32.9753239,32.5691962 32.4929732,33.4120351 C32.3277888,33.7006711 32.0763792,33.9722693 31.7387442,34.2268296 C30.2781544,34.9629088 28.987625,35.3905034 27.8671559,35.5096133 C21.4770669,36.1889033 17.2077388,31.937324 16.4737056,29.3748843 C17.596696,28.3069598 18.6191054,27.6881193 19.5409338,27.5183627 Z" id="Path-2" fill="#737C97"></path>
+                </g>
+                <text id="erala-Startup-Jobs" font-family="Pacifico-Regular, Pacifico" font-size="18" font-style="italic" font-weight="normal" fill="#737C97">
+                    <tspan x="34.8574219" y="28.1116856">erala Startup Jobs</tspan>
+                </text>
+                <g id="Group-5" transform="translate(0.000000, 14.000000)" fill="#737C97">
+                    <g id="Group-2" transform="translate(52.066974, 20.298458) scale(-1, 1) translate(-52.066974, -20.298458) translate(47.816974, 19.548458)">
+                        <rect id="Rectangle-2-Copy-3" x="3" y="0" width="5.5" height="1.5" rx="0.75"></rect>
+                        <circle id="Oval-3-Copy-2" cx="0.75" cy="0.75" r="1"></circle>
+                    </g>
+                    <g id="Group-3" transform="translate(0.148420, 0.133864)">
+                        <rect id="Rectangle-2-Copy-9" x="3" y="0" width="5.5" height="1.5" rx="0.75"></rect>
+                        <circle id="Oval-3-Copy-6" cx="0.75" cy="0.75" r="1"></circle>
+                    </g>
+                </g>
+                <g id="Group-4" transform="translate(38.500000, 2.000000)">
+                    <path d="M0.662699438,4.69824806 C2.38738333,4.13072619 3.66918537,4.37787104 4.50810556,5.43968261 C4.91111435,5.94976616 3.43744646,3.43103984 6.32791983,1.94950086" id="Path-4" stroke="#737C97" transform="translate(3.495310, 3.728136) rotate(43.000000) translate(-3.495310, -3.728136) "></path>
+                    <circle id="Oval-3-Copy-2" fill="#737C97" cx="0.800123877" cy="2.52136557" r="1"></circle>
+                    <circle id="Oval-3-Copy-2" fill="#737C97" cx="6.74579314" cy="4.34868973" r="1"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
